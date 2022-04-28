@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu_UI.unity
+    guid: 413a2119cfa01424a9633a7a9d63f4a4
+  - enabled: 1
+    path: Assets/Scenes/menu_Play1.unity
+    guid: 5b8820cdcc584c84f90c32d8b383dfde
+  - enabled: 1
+    path: Assets/Scenes/surya_lvl1.unity
+    guid: 304c6ff217dda094a9e5f543bd271e46
+  - enabled: 1
+    path: Assets/Scenes/menu_Phase2.unity
+    guid: 411a4c05b1b7d2d4890f0de77d01c3e6
+  - enabled: 1
+    path: Assets/Scenes/surya_lvl2.unity
+    guid: c1b66054a2ce38f4f838c9317087f074
+  - enabled: 1
+    path: Assets/Scenes/menu_Phase3.unity
+    guid: d75e3f5a6d5805c46843e426841f894d
+  - enabled: 1
+    path: Assets/Scenes/menu_Play2.unity
+    guid: 12d99ee3f8a96e04592d7e14b719569c
+  - enabled: 1
+    path: Assets/Scenes/surya_lvl3.unity
+    guid: fe0b39dfd78a07d40807ea2b01db27b9
+  - enabled: 1
+    path: Assets/Scenes/menu_Phase4.unity
+    guid: 91586fc279bc1f64cb5be2553df3e324
   m_configObjects: {}

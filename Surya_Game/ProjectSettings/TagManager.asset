@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - skyObjects
+  - meteor
+  - star
+  - skyBlocks
   layers:
   - Default
   - TransparentFX
@@ -41,6 +45,15 @@ TagManager:
   - name: Background
     uniqueID: 599838935
     locked: 0
+  - name: Objects
+    uniqueID: 654493623
+    locked: 0
+  - name: Star
+    uniqueID: 222869003
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Text
+    uniqueID: 4023318403
     locked: 0
