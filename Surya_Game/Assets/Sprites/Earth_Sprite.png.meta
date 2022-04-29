@@ -1,7 +1,109 @@
 fileFormatVersion: 2
 guid: 5320c70b9be0d2f4197993856df432d4
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7293209678887313642
+    second: Earth_Sprite_0
+  - first:
+      213: 6568864512892193037
+    second: Earth_Sprite_1
+  - first:
+      213: 1161687139494357672
+    second: Earth_Sprite_2
+  - first:
+      213: 8161201826287695110
+    second: Earth_Sprite_3
+  - first:
+      213: -6247378815118916877
+    second: Earth_Sprite_4
+  - first:
+      213: 5688198140906323142
+    second: Earth_Sprite_5
+  - first:
+      213: -2021643114319005107
+    second: Earth_Sprite_6
+  - first:
+      213: 1287816041755977545
+    second: Earth_Sprite_7
+  - first:
+      213: 347833756130229713
+    second: Earth_Sprite_8
+  - first:
+      213: -3121601056396828604
+    second: Earth_Sprite_9
+  - first:
+      213: -6978302326740485094
+    second: Earth_Sprite_10
+  - first:
+      213: 1446612528953976472
+    second: Earth_Sprite_11
+  - first:
+      213: -5859487671478599824
+    second: Earth_Sprite_12
+  - first:
+      213: -6901336349343421858
+    second: Earth_Sprite_13
+  - first:
+      213: 8002791927231800266
+    second: Earth_Sprite_14
+  - first:
+      213: 4538704897905530701
+    second: Earth_Sprite_15
+  - first:
+      213: -4567606739609502793
+    second: Earth_Sprite_16
+  - first:
+      213: -412749537711783666
+    second: Earth_Sprite_17
+  - first:
+      213: 7198493352467343135
+    second: Earth_Sprite_18
+  - first:
+      213: -857541462693354999
+    second: Earth_Sprite_19
+  - first:
+      213: 7734345281221042971
+    second: Earth_Sprite_25
+  - first:
+      213: -4700915628971133088
+    second: Earth_Sprite_26
+  - first:
+      213: 3844971438721029183
+    second: Earth_Sprite_28
+  - first:
+      213: 4454920585874523198
+    second: Earth_Sprite_29
+  - first:
+      213: 3873862538554169212
+    second: Earth_Sprite_30
+  - first:
+      213: 6185856053152170367
+    second: Earth_Sprite_31
+  - first:
+      213: 4110640623994559564
+    second: Earth_Sprite_32
+  - first:
+      213: 2975676402677672589
+    second: Earth_Sprite_33
+  - first:
+      213: -6774601602975000423
+    second: Earth_Sprite_34
+  - first:
+      213: -8525229967126437166
+    second: Earth_Sprite_35
+  - first:
+      213: -6041755212173377699
+    second: Earth_Sprite_36
+  - first:
+      213: -4427184258926418353
+    second: Earth_Sprite_37
+  - first:
+      213: -2220799249778831857
+    second: Earth_Sprite_38
+  - first:
+      213: 1301049635773265399
+    second: Earth_Sprite_39
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -31,7 +133,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -40,12 +142,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -85,7 +187,721 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Earth_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1670
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0e486df8fa63560800000000000000
+      internalID: 7293209678887313642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1670
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09cb9c987b492b50800000000000000
+      internalID: 6568864512892193037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1670
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa63b96c442f1010800000000000000
+      internalID: 1161687139494357672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1670
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605b52432d9624170800000000000000
+      internalID: 8161201826287695110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1670
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f24983511adc49a0800000000000000
+      internalID: -6247378815118916877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1670
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc32c0621a80fe40800000000000000
+      internalID: 5688198140906323142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1350
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab6647c4ea1f3e0800000000000000
+      internalID: -2021643114319005107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1350
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9472ae8eddd3fd110800000000000000
+      internalID: 1287816041755977545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1350
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd380355f0c3d400800000000000000
+      internalID: 347833756130229713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1350
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440abfec068dda4d0800000000000000
+      internalID: -3121601056396828604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1350
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf957a107182f90800000000000000
+      internalID: -6978302326740485094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1350
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966eeb3e66631410800000000000000
+      internalID: 1446612528953976472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1220
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbcb7f10beeaea0800000000000000
+      internalID: -5859487671478599824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1220
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ae4e5b7278930a0800000000000000
+      internalID: -6901336349343421858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1230
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3e3027bd0af0f60800000000000000
+      internalID: 8002791927231800266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1220
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d471cfbbe08bcfe30800000000000000
+      internalID: 4538704897905530701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1230
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb35ebded99c90c0800000000000000
+      internalID: -4567606739609502793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1220
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018b777b7e954af0800000000000000
+      internalID: -412749537711783666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1230
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a3d7909f26e360800000000000000
+      internalID: 7198493352467343135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1030
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9026ef745966914f0800000000000000
+      internalID: -857541462693354999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 900
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1326611e0ae55b60800000000000000
+      internalID: 7734345281221042971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 910
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f718542ef2ceb0800000000000000
+      internalID: -4700915628971133088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 710
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f345d78e6251c5530800000000000000
+      internalID: 3844971438721029183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 710
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3440af6bae03dd30800000000000000
+      internalID: 4454920585874523198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 710
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77d6374479b2c530800000000000000
+      internalID: 3873862538554169212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 710
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71c5d76e4398d550800000000000000
+      internalID: 6185856053152170367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 710
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5c705eddeb0930800000000000000
+      internalID: 4110640623994559564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 390
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a6d142ce9bb4920800000000000000
+      internalID: 2975676402677672589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 390
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99812e74cb7cbf1a0800000000000000
+      internalID: -6774601602975000423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 390
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2e9e4738c40b980800000000000000
+      internalID: -8525229967126437166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 390
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f7a8625af572ca0800000000000000
+      internalID: -6041755212173377699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 390
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f466d7b6f5b7f82c0800000000000000
+      internalID: -4427184258926418353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 390
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e8a7f39d22e21e0800000000000000
+      internalID: -2220799249778831857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 200
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ba6f10c14e0210800000000000000
+      internalID: 1301049635773265399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

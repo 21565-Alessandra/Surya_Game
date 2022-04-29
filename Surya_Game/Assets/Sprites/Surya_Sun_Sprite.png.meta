@@ -1,7 +1,97 @@
 fileFormatVersion: 2
 guid: 150bb7de6c660a844a82d4d924ec3a30
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7852547227646862264
+    second: Surya_Sun_Sprite_0
+  - first:
+      213: -361756220141520997
+    second: Surya_Sun_Sprite_1
+  - first:
+      213: 3497487902618941481
+    second: Surya_Sun_Sprite_2
+  - first:
+      213: 8574810865065058102
+    second: Surya_Sun_Sprite_3
+  - first:
+      213: -8161813414346890000
+    second: Surya_Sun_Sprite_4
+  - first:
+      213: 93552456555053518
+    second: Surya_Sun_Sprite_5
+  - first:
+      213: 8366855119698521832
+    second: Surya_Sun_Sprite_6
+  - first:
+      213: 2543031822072498388
+    second: Surya_Sun_Sprite_7
+  - first:
+      213: 2281382870109382899
+    second: Surya_Sun_Sprite_8
+  - first:
+      213: -3337083061044281008
+    second: Surya_Sun_Sprite_9
+  - first:
+      213: -4059098171274325559
+    second: Surya_Sun_Sprite_10
+  - first:
+      213: -7353448285566046388
+    second: Surya_Sun_Sprite_11
+  - first:
+      213: 4546006077405967058
+    second: Surya_Sun_Sprite_12
+  - first:
+      213: -4595886408683669367
+    second: Surya_Sun_Sprite_13
+  - first:
+      213: -3973566006051781346
+    second: Surya_Sun_Sprite_14
+  - first:
+      213: -8406081714975804175
+    second: Surya_Sun_Sprite_15
+  - first:
+      213: -6902521354990952285
+    second: Surya_Sun_Sprite_16
+  - first:
+      213: 426981086809882268
+    second: Surya_Sun_Sprite_17
+  - first:
+      213: -6925201632313279517
+    second: Surya_Sun_Sprite_18
+  - first:
+      213: 3236156308757580359
+    second: Surya_Sun_Sprite_19
+  - first:
+      213: -3987070112179690361
+    second: Surya_Sun_Sprite_20
+  - first:
+      213: -4731987817846159966
+    second: Surya_Sun_Sprite_21
+  - first:
+      213: -8664468886105449820
+    second: Surya_Sun_Sprite_22
+  - first:
+      213: -7971963827558391221
+    second: Surya_Sun_Sprite_23
+  - first:
+      213: 8719252503693003949
+    second: Surya_Sun_Sprite_24
+  - first:
+      213: -6244766100858158401
+    second: Surya_Sun_Sprite_25
+  - first:
+      213: 8190579840986092103
+    second: Surya_Sun_Sprite_26
+  - first:
+      213: 6484233467637782125
+    second: Surya_Sun_Sprite_27
+  - first:
+      213: -5074897574878176818
+    second: Surya_Sun_Sprite_28
+  - first:
+      213: -9130626150424393126
+    second: Surya_Sun_Sprite_29
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +130,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -85,7 +175,637 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c512aa6e5260390800000000000000
+      internalID: -7852547227646862264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 1280
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973d2b62a8cafaf0800000000000000
+      internalID: -361756220141520997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 640
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928f3d987b2998030800000000000000
+      internalID: 3497487902618941481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 650
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fdc5cec09dff670800000000000000
+      internalID: 8574810865065058102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 650
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4e5da51f96bbe80800000000000000
+      internalID: -8161813414346890000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 330
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec144dca67d5c4100800000000000000
+      internalID: 93552456555053518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eee9c0e66a0d1470800000000000000
+      internalID: 8366855119698521832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 330
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d84527f7f9aa4320800000000000000
+      internalID: 2543031822072498388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 330
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8e78112a919af10800000000000000
+      internalID: 2281382870109382899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0518b78f2ac40b1d0800000000000000
+      internalID: -3337083061044281008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 10
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c191c028bf2ba7c0800000000000000
+      internalID: -4059098171274325559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 10
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f61a89ebd43f990800000000000000
+      internalID: -7353448285566046388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1282
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2bc8e0178a61f30800000000000000
+      internalID: 4546006077405967058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1282
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883d5e49a12830c0800000000000000
+      internalID: -4595886408683669367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1282
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1547b535ce0bd8c0800000000000000
+      internalID: -3973566006051781346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 950
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f5f1b739975b80800000000000000
+      internalID: -8406081714975804175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 953
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0673516615530a0800000000000000
+      internalID: -6902521354990952285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 963
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9efc154901fce500800000000000000
+      internalID: 426981086809882268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 960
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebf2048ecdb4ef90800000000000000
+      internalID: -6925201632313279517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 628
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a8225540329ec20800000000000000
+      internalID: 3236156308757580359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 631
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784e3fc7bd41ba8c0800000000000000
+      internalID: -3987070112179690361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 634
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5cdcb962a945eb0800000000000000
+      internalID: -4731987817846159966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 634
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa9244547f91c780800000000000000
+      internalID: -8664468886105449820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 309
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b426e18d225ed5190800000000000000
+      internalID: -7971963827558391221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 309
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8e8d94f1010970800000000000000
+      internalID: 8719252503693003949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 316
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2c2f441522659a0800000000000000
+      internalID: -6244766100858158401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 323
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742937648f8caa170800000000000000
+      internalID: 8190579840986092103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66df3fdbff9cf950800000000000000
+      internalID: 6484233467637782125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec915e92b875299b0800000000000000
+      internalID: -5074897574878176818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Surya_Sun_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 313
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5acf0f64ef794180800000000000000
+      internalID: -9130626150424393126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
