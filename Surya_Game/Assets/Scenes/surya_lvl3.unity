@@ -1108,7 +1108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d6f3efd0c681a24495cbce7bd816385, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MyScoreText: {fileID: 0}
+  MyScoreText: {fileID: 383676015}
 --- !u!1001 &716920278
 PrefabInstance:
   m_ObjectHideFlags: 0
