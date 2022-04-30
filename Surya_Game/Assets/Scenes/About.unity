@@ -277,8 +277,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -76.8, y: -109.2}
-  m_SizeDelta: {x: 79.27666, y: 30.788368}
+  m_AnchoredPosition: {x: -85.2, y: -145.40001}
+  m_SizeDelta: {x: 85.327545, y: 36.23784}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &362807731
 MonoBehaviour:
@@ -485,8 +485,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 129, y: -94.86}
-  m_SizeDelta: {x: 63.036957, y: 59.467804}
+  m_AnchoredPosition: {x: 136.3, y: -128.5}
+  m_SizeDelta: {x: 67.84836, y: 69.99346}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &825517769
 MonoBehaviour:
@@ -630,7 +630,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.60784316, g: 0.9529412, b: 0.9882353, a: 1}
+  m_BackGroundColor: {r: 0.16078432, g: 0.6784314, b: 0.69803923, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -711,7 +711,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.5, y: 115.69}
+  m_AnchoredPosition: {x: 0, y: 125}
   m_SizeDelta: {x: 289.74075, y: 62.427017}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &903394956
@@ -735,7 +735,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 1261739a48e8f1d43bc8611b0b3c65a8, type: 3}
-    m_FontSize: 30
+    m_FontSize: 35
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
@@ -790,8 +790,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -63.893}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 70, y: -57.897}
-  m_SizeDelta: {x: 43.615204, y: 71.82579}
+  m_AnchoredPosition: {x: 72.8, y: -85}
+  m_SizeDelta: {x: 51.33499, y: 77.30806}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1069502485
 MonoBehaviour:
@@ -908,8 +908,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 51.6, y: -106.7}
-  m_SizeDelta: {x: 67.707794, y: 44.121567}
+  m_AnchoredPosition: {x: 53.000004, y: -142.40001}
+  m_SizeDelta: {x: 72.87569, y: 51.93097}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1277143006
 MonoBehaviour:
@@ -986,8 +986,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -59.8, y: -57.897}
-  m_SizeDelta: {x: 142.47543, y: 49.001923}
+  m_AnchoredPosition: {x: -106.5, y: -58}
+  m_SizeDelta: {x: 184.97592, y: 57.67514}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1452663144
 MonoBehaviour:
@@ -1088,7 +1088,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 1261739a48e8f1d43bc8611b0b3c65a8, type: 3}
-    m_FontSize: 18
+    m_FontSize: 20
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -1149,8 +1149,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -275.86786, y: -68.20001}
+  m_AnchoredPosition: {x: 0, y: 0.000015258789}
+  m_SizeDelta: {x: -178.64764, y: -0.000030517578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1635354384
 MonoBehaviour:
@@ -1165,7 +1165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.5137255, g: 0.9796577, b: 1, a: 1}
+  m_Color: {r: 0.5137255, g: 0.9796577, b: 1, a: 0.42745098}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -1223,8 +1223,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.5, y: 31.246996}
-  m_SizeDelta: {x: 280.39236, y: 106.46219}
+  m_AnchoredPosition: {x: 0, y: 31}
+  m_SizeDelta: {x: 406.89566, y: 105.5007}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2144049589
 MonoBehaviour:
@@ -1247,7 +1247,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 1261739a48e8f1d43bc8611b0b3c65a8, type: 3}
-    m_FontSize: 20
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
