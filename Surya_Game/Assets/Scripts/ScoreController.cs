@@ -25,13 +25,17 @@ public class ScoreController : MonoBehaviour
     void OnTriggerEnter2D(Collider2D target)
     {
         if(target.tag == "meteor")
+            {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            }
+            SoundManager.PlaySound ("meteorSound");       
     }
 
     void OnTriggerExit2D(Collider2D target)
     {
         if(target.tag == "skyObjects")
         {
+            // SoundManager.PlaySound ("catch");
             Destroy(target.gameObject);
             score++;
         }

@@ -35,5 +35,41 @@ public class MenuButtons : MonoBehaviour
         SceneManager.LoadScene(7);
     }
 
+     public void OnFourthLevelButton()
+    {
+        SceneManager.LoadScene(9);
+    }
+
+    public void OnPlayButton3()
+    {
+        SceneManager.LoadScene(12);
+    }
+
+    public void OnFifthLevelButton()
+    {
+        SceneManager.LoadScene(11);
+    }
+
+
+
+    // ABOUT MENUS 
+    public void OnAboutButton()
+    {
+        SceneManager.LoadScene("About");
+    }
+
+     public void OnAboutButton2()
+    {
+        SceneManager.LoadScene("About2");
+    }
+
+    public void OnBackButton()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+
+
+
 }
 

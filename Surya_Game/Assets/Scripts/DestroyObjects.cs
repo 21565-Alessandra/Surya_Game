@@ -30,7 +30,7 @@ public class DestroyObjects: MonoBehaviour
   void Update()
      {
          
-         if(ScoreNum>=36)
+         if(ScoreNum>=21)
          {
             SceneManager.LoadScene(8);
          }
